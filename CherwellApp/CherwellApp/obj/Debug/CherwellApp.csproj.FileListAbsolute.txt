@@ -1,0 +1,7 @@
+c:\users\ron ipson\source\repos\CherwellApp\CherwellApp\bin\Debug\CherwellApp.exe.config
+c:\users\ron ipson\source\repos\CherwellApp\CherwellApp\bin\Debug\CherwellApp.exe
+c:\users\ron ipson\source\repos\CherwellApp\CherwellApp\bin\Debug\CherwellApp.pdb
+c:\users\ron ipson\source\repos\CherwellApp\CherwellApp\obj\Debug\CherwellApp.csproj.CoreCompileInputs.cache
+c:\users\ron ipson\source\repos\CherwellApp\CherwellApp\obj\Debug\CherwellApp.exe
+c:\users\ron ipson\source\repos\CherwellApp\CherwellApp\obj\Debug\CherwellApp.pdb
+c:\users\ron ipson\source\repos\CherwellApp\CherwellApp\obj\Debug\CherwellApp.csprojResolveAssemblyReference.cache
